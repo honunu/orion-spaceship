@@ -10,7 +10,7 @@ and integration of custom or futuristic spaceship technologies,
 making it ideal for space simulation games, research projects,
 or serious prototyping of advanced vehicle controls.
 
-![Orion Banner](assets/orion.png)
+![Orion Banner](assets/orion.jpg)
 
 ## 🚀 Features
 
