@@ -10,6 +10,8 @@ and integration of custom or futuristic spaceship technologies,
 making it ideal for space simulation games, research projects,
 or serious prototyping of advanced vehicle controls.
 
+![Orion Banner](assets/orion.png)
+
 ## 🚀 Features
 
 - **Modular Architecture:** Plug-and-play subsystems (e.g., Propulsion, Life Support, Power, etc.)
