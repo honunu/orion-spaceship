@@ -1,0 +1,12 @@
+[project]
+name = "orion-spaceship"
+version = "0.1.0"
+description = "Modular spaceship control system for simulation, prototyping, and education."
+authors = [
+    { name = "Victor", email = "victorwu34@gmail.com" }
+]
+requires-python = "==3.12.*"
+
+dependencies = [
+    "numpy>=1.26.0"
+]
